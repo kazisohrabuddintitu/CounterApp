@@ -2,9 +2,16 @@
 .flex-container{
     display: flex;
     flex-direction: column;
-    height: 40%;
-    width: 30%;
+    height: 400px;
+    width: 50%;
     background-color: brown;
     text-align: center;
     margin: auto;
+    border-radius: 30px;
+    
+}
+#content h1{
+    margin: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:600%;
 }
