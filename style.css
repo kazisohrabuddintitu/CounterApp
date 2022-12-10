@@ -1,0 +1,10 @@
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    height: 40%;
+    width: 30%;
+    background-color: brown;
+    text-align: center;
+    margin: auto;
+}
