@@ -4,9 +4,9 @@
         justify-content: center;
         flex-direction: column;
         text-align: center; 
-        height: 250%;
+        height: 25%;
         width: 25%;
-        margin:25% auto;   
+        margin:35% auto;   
         background-color: rgb(159, 76, 76);
         box-shadow: 0 8px 8px 0 rgba(95, 95, 95, 0.2), 0 6px 20px 0 rgba(163, 160, 160, 0.19);
         } 
@@ -18,9 +18,9 @@
     justify-content: center;
     flex-direction: column;
     text-align: center; 
-    height: 250%;
+    height: 25%;
     width: 25%;
-    margin:25% auto;   
+    margin:35% auto;   
     background-color: rgb(159, 76, 76);
     box-shadow: 0 8px 8px 0 rgba(95, 95, 95, 0.2), 0 6px 20px 0 rgba(163, 160, 160, 0.19);
     }
@@ -32,9 +32,9 @@
         justify-content: center;
         flex-direction: column;
         text-align: center; 
-        height: 250%;
+        height: 25%;
         width: 25%;
-        margin:25% auto;   
+        margin:35% auto;   
         background-color: rgb(159, 76, 76);
         box-shadow: 0 8px 8px 0 rgba(95, 95, 95, 0.2), 0 6px 20px 0 rgba(163, 160, 160, 0.19);
         } 
