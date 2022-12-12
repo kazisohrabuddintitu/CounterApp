@@ -1,17 +1,61 @@
-
+@media screen and (max-width: 600px) {      /*Extra small devices*/
+    .flex-container{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center; 
+        height: 250%;
+        width: 25%;
+        margin:25% auto;   
+        background-color: rgb(159, 76, 76);
+        box-shadow: 0 8px 8px 0 rgba(95, 95, 95, 0.2), 0 6px 20px 0 rgba(163, 160, 160, 0.19);
+        } 
+} 
+ 
+ @media screen and (min-width: 768px) {     /*Small devices(phone and portrait tablets) */
 .flex-container{
     display: flex;
+    justify-content: center;
     flex-direction: column;
-    height: 400px;
-    width: 50%;
-    background-color: brown;
+    text-align: center; 
+    height: 250%;
+    width: 25%;
+    margin:25% auto;   
+    background-color: rgb(159, 76, 76);
+    box-shadow: 0 8px 8px 0 rgba(95, 95, 95, 0.2), 0 6px 20px 0 rgba(163, 160, 160, 0.19);
+    }
+ }
+
+ @media screen and (min-width: 768px) {    /*Medium devices (landscape tablets)*/
+    .flex-container{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center; 
+        height: 250%;
+        width: 25%;
+        margin:25% auto;   
+        background-color: rgb(159, 76, 76);
+        box-shadow: 0 8px 8px 0 rgba(95, 95, 95, 0.2), 0 6px 20px 0 rgba(163, 160, 160, 0.19);
+        } 
+ }
+ @media screen and (min-width: 992px){    /* Large devices (laptops/desktops) */
+    .flex-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     text-align: center;
     margin: auto;
-    border-radius: 30px;
-    
+    }
+ }
+#header{
+    background-color: gray;    
 }
+
 #content h1{
-    margin: 80px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size:600%;
+    font-size:500%;
+}
+.custom{
+    width: 30%;
 }
